@@ -66,3 +66,6 @@ How to Run the Project
 	2.	Install the required dependencies using the provided requirements.txt file.
 	3.	Run the Jupyter notebooks to reproduce the analysis.
 	4.	View Tableau visualizations through the shared Tableau link.
+
+Presentation:
+https://docs.google.com/presentation/d/16ZGh1EAvUZzTXGhFiybw4nPkvSITPsLbTp-cAh0uP2o/edit?usp=sharing
